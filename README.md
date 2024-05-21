@@ -1,5 +1,8 @@
 # Belly-Button-Challenge UPenn
-This project's goal is to create a website able to display charts from data imported in with d3 library. The data in the project pretains to bacteria cultures, and the charts visualize this data. This project contains numerous starter files from Upenn.
+This project's goal is to create a website able to display charts from data imported in with d3 library. The data in the project pretains to bacteria cultures, and the charts visualize this data. This project contains numerous starter files from Upenn. 
+
+# GitHub page
+https://hlee12000.github.io/belly-button-challenge/
 
 ## Folders & Files
 
